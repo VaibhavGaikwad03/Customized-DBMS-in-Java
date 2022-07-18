@@ -1,5 +1,5 @@
 <div align = "center">
-    <h1>CHAT MESSENGER APPLICATION</h1>
+    <h1>CUSTOMIZED DATABASE MANAGEMENT SYSTEM</h1>
 </div>
 
 ### PLATFORM REQUIRED : 
